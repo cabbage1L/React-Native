@@ -1,7 +1,9 @@
 # Resistor-Calculator
 * tool
   * react native
-    
-📄 [Resistor Calculator PDF](resistor_calculator.pdf)
+  
+🗂️[Basis React Native](Basis React Native)
 
+📄 [Resistor Calculator PDF](react native Test/resistor_calculator.pdf)
+<br/>
 ![image 1](images/reactResistor.png)
