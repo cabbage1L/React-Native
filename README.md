@@ -2,5 +2,6 @@
 * tool
   * react native
     
-📄 [Open PDF](resistor_calculator.pdf)
+📄 [Resistor Calculator PDF](resistor_calculator.pdf)
+
 ![image 1](images/reactResistor.png)
